@@ -1,0 +1,18 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Font Awesome
+@import "vendor/components/font-awesome/scss/font-awesome";
+
+// React App
+@import "./resources/assets/js/react_indecision/styles/styles";
+
+// custom
+@import "custom";

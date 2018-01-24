@@ -1,0 +1,11 @@
+html {
+    font-size: 62.5%;   /*  allows 1 rem = 10px */
+}
+body {
+    // background: $lighter-purple;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $md-size; /* resets the default h1 to 16px and all other fonts */
+}
+
+button { cursor: pointer; }
+button:disabled { cursor: default; }

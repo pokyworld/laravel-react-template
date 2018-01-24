@@ -1,0 +1,24 @@
+
+// colours :
+
+$off-black: #20222b;
+$white: #ffffff;
+$off-white: #a5afd7;
+$blue: #3c4251;
+$lighter-blue: #464b5e;
+$light-blue: lighten($lighter-blue, 10%);
+$darker-blue: #333745;
+$purple: #8357c5;
+$darker-purple: darken($purple, 10%);
+$lighter-purple: lighten($purple, 10%);
+
+// Spacing :
+
+$xl-size: 4.8rem;
+$lg-size: 3.2rem;
+$md-size: 1.6rem;
+$sm-size: 1rem;
+$xs-size: 0.6rem;
+$xxs-size: 0.3rem;
+$mobile-breakpoint: 45rem;
+
